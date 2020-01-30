@@ -1,0 +1,17 @@
+{
+  "file_list": [
+  ],
+  "custom_middleware": {
+    "pre": [
+      {
+        "name": "MyPreHook1"
+      },
+      {
+        "name": "MyPreHook2"
+      }
+    ],
+    "driver": "grpc"
+  },
+  "checksum": "",
+  "signature": ""
+}
